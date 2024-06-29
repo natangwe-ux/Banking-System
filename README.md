@@ -12,6 +12,7 @@ Novo Usuario: Create a new user.
 Sair: Exit the application.
 
 Code Overview
+
 The main components of the system are:
 menu: Displays the main menu and prompts the user for input.
 depositar: Handles the deposit operation.
