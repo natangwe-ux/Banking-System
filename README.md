@@ -1,7 +1,8 @@
 # Banking-System
-Simple Banking System This is a simple command-line banking system implemented in Python. The system allows users to perform basic banking operations such as depositing, withdrawing, viewing account statements, creating new accounts, and listing all accounts.
+This is a simple command-line banking system implemented in Python. The system allows users to perform basic banking operations such as depositing, withdrawing, viewing account statements, creating new accounts, and listing all accounts.
 
 Features
+
 Depositar: Deposit money into your account.
 Sacar: Withdraw money from your account.
 Extrato: View account statements.
